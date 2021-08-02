@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "name": "Monster Hunter Rise",
+      "description": "Passado na vila com temática ninja de Kamura, explore ecossistemas vivos e enfrente temíveis monstros para se tornar o caçador supremo. Já faz meio século desde que a última calamidade ocorreu, mas um novo monstro aterrorizante deu às caras e ameaça mergulhar a terra no caos novamente.",
+      "platforms": ["Nintendo Switch"],
+      "picture": "https://user-images.githubusercontent.com/46823713/127857518-3aa4c7d6-692b-403a-9e3c-cb8926b8afea.png",
+      "value": 24990,
+      "release_date": "26/03/2021",
+      "id": 1
+    },
+    {
+      "name": "Mario Kart 8 Deluxe",
+      "description": "Acelere nesta versão definitiva do jogo Mario Kart 8 e jogue a qualquer hora, em qualquer lugar! Participe de corridas com seus amigos ou compita com eles em um modo de batalha revisado, em pistas de batalha que estão de volta, ou pistas completamente novas. Jogue com a comunicação local sem fio em multijogador para até quatro jogadores em 1080p ao jogar no modo TV. ",
+      "platforms": ["Nintendo Switch"],
+      "picture": "https://user-images.githubusercontent.com/46823713/127857547-88339ebf-0d43-4aee-8896-059a253ec7e4.png",
+      "release_date": "27/04/2017",
+      "value": 29900,
+      "id": 2
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "description": "Esqueça tudo que você sabe sobre os jogos da série The Legend of Zelda. Entre em um mundo de descobertas, exploração e aventura em The Legend of Zelda: Breath of the Wild, o novo jogo da famosa série que veio para romper barreiras.",
+      "platforms": ["Nintendo Switch"],
+      "picture": "https://user-images.githubusercontent.com/46823713/127857639-718b0482-7df0-48ba-ae07-0f61d568291e.png",
+      "release_date": "03/03/2017",
+      "value": 29900,
+      "id": 3
+    },
+    {
+      "name": "Hades",
+      "description": "Hades é um jogo roguelike que combina os melhores aspectos dos títulos da Supergiant aclamados pela crítica, incluindo a ação rápida de Bastion, a rica atmosfera e profundidade de Transistor e a narrativa baseada em personagens de Pyre.",
+      "platforms": ["Nintendo Switch"],
+      "picture": "https://user-images.githubusercontent.com/46823713/127857671-9c52c8c2-3305-4229-8b63-dd31a138bd71.png",
+      "release_date": "06/12/2018",
+      "value": 9246,
+      "id": 4
+    },
+    {
+      "name": "Animal Crossing: New Horizons",
+      "description": "Escape para uma ilha deserta e crie o seu próprio paraíso enquanto explora, cria e customiza em Animal Crossing: New Horizons.",
+      "release_date": "20/04/2020",
+      "picture": "https://user-images.githubusercontent.com/46823713/127857707-20af2369-3208-4b91-aab4-64553ac4dfb3.png",
+      "value": 5490,
+      "platforms": ["Nintendo Switch"],
+      "id": 5
+    },
+    {
+      "name": "Luigi’s Mansion 3",
+      "description": "Luigi foi convidado a se hospedar no suntuoso hotel Last Resort. Mas com o sumiço de Mario e seus amigos, nosso herói vestido de verde terá de superar seus medos para poder salvá-los!",
+      "release_date": "31/10/2019",
+      "picture": "https://user-images.githubusercontent.com/46823713/127857734-b14339b1-1ff2-41f5-9b9a-a27d462ed1e2.png",
+      "value": 29900,
+      "platforms": ["Nintendo Switch"],
+      "id": 6
+    },
+    {
+      "name": "Cities: Skylines",
+      "description": "Cities: Skylines é uma versão moderna dos simuladores de cidade clássicos. O jogo introduz novos elementos de jogabilidade para que você sinta a emoção e a dificuldade de criar e manter uma cidade de verdade, além de aprimorar os elementos clássicos da construção de cidades.",
+      "release_date": "10/03/2015",
+      "picture": "https://user-images.githubusercontent.com/46823713/127857786-7fdc51d2-1326-4aa6-9dc6-8a72e2b48442.png",
+      "value": 6990,
+      "platforms": ["Nintendo Switch"],
+      "id": 7
+    },
+    {
+      "name": "Untitled Goose Game",
+      "description": "Untitled Goose Game é um jogo cômico estilo sandbox e gênero stealth em que você é um ganso descontrolado em um pobre povoado inocente.",
+      "release_date": "20/09/2019",
+      "picture": "https://user-images.githubusercontent.com/46823713/127857821-90971901-3467-452e-9627-e8a4c6c3fd4d.png",
+      "value": 4990,
+      "platforms": ["Nintendo Switch"],
+      "id": 8
+    },
+    {
+      "name": "Mother 3",
+      "description": "Em Mother 3 você controlará um grupo de personagens jogáveis ​​que exploram o mundo ficcional bidimensional do jogo, em uma perspectiva de cima para baixo. Enquanto navega pelo mundo superior, você poderá conversar com personagens, obter itens ou encontrar inimigos.",
+      "release_date": "20/04/2006",
+      "picture": "https://user-images.githubusercontent.com/46823713/127857903-66e135c3-9046-4f12-aad1-8909a9a4ff7e.png",
+      "platforms": ["Gameboy Advance"],
+      "value": 14990,
+      "id": 9
+    },
+    {
+      "name": "UNDERTALE",
+      "description": "Mergulhe no subterrâneo e explore um mundo hilário, cativante e cheio de monstros perigosos. Namore um esqueleto, dance com um robô, cozinhe com uma mulher-peixe... ou destrua todos eles. Quem determina o futuro é você!",
+      "release_date": "15/09/2015",
+      "picture": "https://user-images.githubusercontent.com/46823713/127857954-77a7b382-0381-497c-af09-78bfe913170c.png",
+      "platforms": ["Nintendo Switch"],
+      "value": 7990,
+      "id": 10
+    },
+    {
+      "name": "The Legend Of Zelda: Skyward Sword HD",
+      "description": "Junte-se a Link em sua missão de voar alto para salvar Zelda, uma amiga de infância que precisa enfrentar seu destino.",
+      "release_date": "16/07/2021",
+      "picture": "https://user-images.githubusercontent.com/46823713/127858037-e8920d46-4066-4b13-892e-3932ef9e6c1c.png",
+      "platforms": ["Nintendo Switch"],
+      "value": 29990,
+      "id": 11
+    },
+    {
+      "name": "Mario Golf: Super Rush",
+      "description": "Está na hora de mostrarem o que valem no campo de golfe! Esta nova edição inclui um modo de história e também vários modos multiplayer que incluem speed golf.",
+      "release_date": "25/06/2021",
+      "picture": "https://user-images.githubusercontent.com/46823713/127858130-82890964-55e9-4067-b5e4-1c53e6396bfa.png",
+      "platforms": ["Nintendo Switch"],
+      "value": 29990,
+      "id": 12
+    }
+  ],
+  "hero": [
+    {
+      "name": "The Legend Of Zelda: Skyward Sword",
+      "description": "Junte-se a Link em sua missão de voar alto para salvar Zelda, uma amiga de infância que precisa enfrentar seu destino.",
+      "release_date": "25/06/2021",
+      "platforms": ["Nintendo Switch"],
+      "picture": "https://user-images.githubusercontent.com/46823713/127757118-87f38c98-9970-4b73-8375-d86157411c26.png",
+      "value": 29990,
+      "id": 11
+    },
+    {
+      "name": "Mario Golf",
+      "description": "Está na hora de mostrarem o que valem no campo de golfe! Esta nova edição inclui um modo de história e também vários modos multiplayer que incluem speed golf.",
+      "release_date": "25/06/2021",
+      "picture": "https://user-images.githubusercontent.com/46823713/127757104-9bfa0720-3643-4ba9-b928-ef720385332d.png",
+      "platforms": ["Nintendo Switch"],
+      "value": 29990,
+      "id": 12
+    }
+  ]
+}
