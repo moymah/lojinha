@@ -28,11 +28,11 @@ export const CartToggle = () => {
 
   useEffect(() => {
     const selectedProducts = findProducts(cart, products)
-    const total = selectedProducts.map(
+    const totalValues = selectedProducts.map(
       ({ value, quantity }) => value * quantity
     )
-    const total2 = total.reduce((curr, accum) => curr + accum, 0)
-    setTotalValue(total2)
+    const totalSum = totalValues.reduce((curr, accum) => curr + accum, 0)
+    setTotalValue(totalSum)
     setProductsInCart(selectedProducts)
   }, [products, cart])
 
