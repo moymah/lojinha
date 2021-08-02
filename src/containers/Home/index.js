@@ -31,21 +31,13 @@ export const HomeContainer = () => {
     <S.Container>
       <Header />
       <Hero hero={hero} />
-      <div
-        style={{
-          display: 'flex',
-          width: '100%',
-          justifyContent: 'flex-end',
-          padding: '16px'
-        }}
-      >
-        <input
-          style={{ width: '300px' }}
+      <S.Filter>
+        <S.Input
           placeholder="Busca"
           value={filter}
           onChange={({ target }) => setFilter(target.value)}
         />
-      </div>
+      </S.Filter>
 
       <S.Content>
         <Loading isLoading={isLoading}>
